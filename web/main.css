@@ -1,0 +1,79 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 9, 2015, 9:24:52 PM
+    Author     : jdb117
+*/
+table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: lightcyan;
+    margin:auto;
+   
+        
+}
+h1{
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    margin-left:auto;
+    margin-right: auto;
+        
+}
+
+#buttonstyle{
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+    
+}
+
+#profileLink{
+ 
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+    
+}
+
+body {
+    background-image: url("http://i.imgur.com/F9UE486.jpg");
+    background-size: 100%;
+    background-color: lightsteelblue;
+    
+}
+
+#contentwrapper{
+    padding: 25px;
+    margin:auto;
+    width: 900px;
+    text-align: left;
+    background-color: lightyellow;
+    border: solid black 2px;
+    
+}
+table td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+   
+}
+
+ul li{
+    
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
